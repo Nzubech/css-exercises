@@ -1,0 +1,14 @@
+.just {
+    background-color: #000;
+    color: #fff;
+}
+
+.unjust {
+    background-color: #edfe00;
+}
+
+.just,
+.unjust {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
